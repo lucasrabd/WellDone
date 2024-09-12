@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "package:WellDone",
+    "appService.deploySubpath": "target\\WellDone-0.0.1-SNAPSHOT.jar",
+    "appService.defaultWebAppToDeploy": "/subscriptions/f7cdcded-c5c5-4069-8555-752d85612a04/resourceGroups/api-java-welldone_group/providers/Microsoft.Web/sites/api-java-welldone"
+}
